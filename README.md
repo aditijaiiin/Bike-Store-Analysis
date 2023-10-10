@@ -4,7 +4,7 @@ A complete data analysis project using SQL, Excel and Tableau.
 - Used the dataset to create a Excel dashboard.
 - Used the dataset to create a Tableau dashboard.
 
-Tableau dashboard link :
+<a href = 'https://public.tableau.com/app/profile/aditi5911/viz/BikeStore_16967963060910/Dashboard?publish=yes'>Tableau dashboard link</a>
 
 Excel dashboard : 
 
